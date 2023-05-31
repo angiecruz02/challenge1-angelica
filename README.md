@@ -1,13 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Challenges in This Course
+## Project Description
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+This project is a code refactor of an existing website for a marketing agency, using semantic HTML and web accessibility best practices. The code refactoring aims to improve the website's code structure, maintainability, and accessibility for all users.
 
-### Challenge Types 
+### Credits
 
-The two types of Challenges are the following:
-
-* **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
-
-* **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
+This project was completed by Dora Angelica Cruz Perez. The original code was provided and completed as part of UTSA coding bootcamp.
